@@ -6,10 +6,10 @@
 ###
 
 # The company name - used for SSL certificates, and in srvious other places
-COMPANY_NAME = "Example Com"
+COMPANY_NAME = "Substance Software"
 
 # The Country Name to use for SSL Certificates
-SSL_COUNTRY_NAME = "US"
+SSL_COUNTRY_NAME = "DE"
 
 # The State Name to use for SSL Certificates
 SSL_STATE_NAME = "Several"
@@ -18,10 +18,10 @@ SSL_STATE_NAME = "Several"
 SSL_LOCALITY_NAME = "Locality"
 
 # What department?
-SSL_ORGANIZATIONAL_UNIT_NAME = "Operations"
+SSL_ORGANIZATIONAL_UNIT_NAME = "Substance"
 
 # The SSL contact email address
-SSL_EMAIL_ADDRESS = "ops@example.com"
+SSL_EMAIL_ADDRESS = "info@substance.io"
 
 # License for new Cookbooks
 # Can be :apachev2 or :none
